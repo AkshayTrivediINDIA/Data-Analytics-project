@@ -77,19 +77,6 @@ It explores time-series behavior, detects anomalies, visualizes seasonal pattern
 
 ---
 
-## 🧾 Files Generated
-
-| File Name | Description |
-|------------|-------------|
-| `cleaned_dataset.xlsx` | Final processed dataset |
-| `time_summaries.xlsx` | Daily, weekly, monthly summaries |
-| `master_summary.xlsx` | Key dataset statistics |
-| `anomaly_detection.png` | Graph showing spikes/drops |
-| `peak_hours.png` | Peak load visualization |
-| `off_peak_hours.png` | Low load visualization |
-
----
-
 ## 🧠 Learning Outcomes
 
 - Hands-on experience in **data cleaning, feature extraction, and time-series EDA**  
